@@ -41,13 +41,15 @@ The analysis supported a responsive launch strategy. Because a new product begin
 
 ## My Contribution
 
-My work focused on supporting demand forecasting and synthesizing the team's findings into a final reflection. I reviewed how customer priorities, technical decisions, and supply-chain assumptions connected across the project, and helped evaluate whether the final recommendation was internally consistent and practical.
+I owned key post-processing and synthesis work across the project. For the supply-chain phase, I co-developed the demand forecast by connecting market growth, seasonality, home-purchase activity, and property-risk indicators to quarterly adoption estimates. I then translated the forecast into implications for launch planning, including why the supply chain should prioritize responsiveness while demand remained uncertain.
+
+I also evaluated the project as a complete product story. I checked whether the customer priorities, technical requirements, concept rankings, market assumptions, and operational recommendations supported one another, then synthesized the findings into the final reflection and recommendations. This work helped turn separate analyses into a cohesive, defensible strategy.
 
 ## What I Learned
 
 This project showed me that product and operational decisions cannot be made separately. A promising concept still needs a credible market position, measurable customer value, realistic demand assumptions, and a supply chain capable of responding to uncertainty.
 
-The most valuable lesson was learning how to turn an open-ended product problem into a sequence of defensible decisions. Rather than selecting a concept based only on intuition, the team used customer needs, technical metrics, market evidence, and weighted evaluation to explain why one direction was stronger than the alternatives.
+The most valuable lesson was learning how to turn an open-ended product problem into a sequence of defensible decisions. Rather than selecting a concept based only on intuition, we used customer needs, technical metrics, market evidence, forecasting, and weighted evaluation to explain why one direction was stronger than the alternatives.
 
 ## Methods and Skills
 
